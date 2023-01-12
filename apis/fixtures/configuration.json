@@ -1,0 +1,18 @@
+[
+    {
+      "model": "apis.configuration",
+      "pk": 1,
+      "fields": {
+        "name": "promotion-1",
+        "value": "5.000"
+      }
+    },
+    {
+      "model": "apis.configuration",
+      "pk": 2,
+      "fields": {
+        "name": "price-1",
+        "value": "100.000"
+      }
+    }
+  ]

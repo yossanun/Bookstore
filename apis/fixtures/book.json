@@ -1,0 +1,12 @@
+[
+    {
+      "model": "apis.book",
+      "pk": 2,
+      "fields": {
+        "name": "ABC",
+        "price": 200,
+        "point": 20,
+        "author": null
+      }
+    }
+  ]

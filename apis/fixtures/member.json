@@ -1,0 +1,11 @@
+[
+    {
+      "model": "apis.member",
+      "pk": 1,
+      "fields": {
+        "first_name": "Customer",
+        "last_name": "1",
+        "point": "90.000"
+      }
+    }
+  ]

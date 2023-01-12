@@ -1,0 +1,15 @@
+[
+    {
+      "model": "apis.transaction",
+      "pk": 1,
+      "fields": {
+        "is_use_point": false,
+        "is_use_cash": true,
+        "use_point": null,
+        "use_cash": "90.000",
+        "add_point": "20.000",
+        "member": 1,
+        "book": 2
+      }
+    }
+  ]

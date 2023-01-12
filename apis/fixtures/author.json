@@ -1,0 +1,10 @@
+[
+    {
+      "model": "apis.author",
+      "pk": 1,
+      "fields": {
+        "first_name": "Michael",
+        "last_name": "Scofield"
+      }
+    }
+  ]
